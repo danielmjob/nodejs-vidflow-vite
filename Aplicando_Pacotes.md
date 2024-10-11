@@ -135,4 +135,6 @@ abra o link que ele irá disponibilizar no meu caso gerou (http://localhost:4173
 
 dentro do packge.json crie o script
 "build-preview": "vite build --watch",
-rode o comando:
+rode o comando: npm run build-preview
+
+agora é so Subir para o Git e fazer o deploy no Vercel

@@ -1,6 +1,8 @@
 # vidflow
 
-Para rodar o projeto
+https://nodejs-vidflow-vite-eosin.vercel.app/
+
+Para rodar o projeto Localmente
 
 - no terminal para instalar a versão global (caso queira para outros projetos)
   npm install -g json-server@0.17.4
